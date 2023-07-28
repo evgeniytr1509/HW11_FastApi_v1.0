@@ -16,3 +16,6 @@ def create_table():
 if __name__ == "__main__":
     # Вызов функции для создания таблицы
     create_table()
+
+
+print ("Hello")
